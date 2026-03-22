@@ -42,7 +42,7 @@ from sklearn.preprocessing import StandardScaler
 #import pyautogui
 
 # Cargar el modelo de regresión
-regressor = load("Data/Modelopipeline.joblib")
+regressor = load("Modelopipeline.joblib")
 
 # Cargar el encoder
 # with open('encoderpipeline.pickle', 'rb') as f:
